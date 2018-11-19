@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Список смарт-магазинов </string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name = "sign_in"> войти в </string>
+        <string name = "btn_forgot_password"> забыли пароль </string>
+        <string name = "lbl_forgot_password"> забыли пароль </string><![CDATA[
+        
+        ]]>
+    <string name = "btn_reset_password"> Сбросить пароль </string>
+        <string name = "btn_back"> Назад </string>
+        <string name = "enter_email"> Введите адрес электронной почты </string>
+        <string name = "instructions"> Мы отправили электронное письмо с инструкциями по сбросу пароля </string>
+        <string name = "retry"> Ошибка, пожалуйста, повторите попытку </string>
+        <string name = "enter_email_address"> Введите адрес электронной почты </string>
+        <string name = "enter_password"> Введите пароль </string>
+        <string name = "pass_short"> Пароль слишком короткий </string>
+        <string name = "user_exist"> Пользователь уже существует </string>
+        <string name = "btn_login"> login </string>
+        <string name = "btn_link_to_register"> У вас нет учетной записи? Зарегистрируйтесь сейчас </string>
+        <string name = "enter_emailb"> Email </string>
+        <string name = "sign_up"> SIGN UP </string><![CDATA[
+        
+        ]]>
+    <string name = "continuee"> Продолжить </string>
+        <string name = "empty"> Введите ваш ник </string>
+        <string name = "title_activity_menu_drawer"> MenuDrawer </string>
+
+        <string name = "navigation_drawer_open"> Открыть ящик перемещения </string>
+        <string name = "navigation_drawer_close"> Закрыть навигационный ящик </string>
+
+        <string name = "action_settings"> Настройки </string>
+        <string name = "defaultlist"> Список супермаркетов </string>
+        <string name = "lists"> мои списки </string>
+        <string name = "add"> Добавить новый список </string>
+        <string name = "list_name"> Введите имя списка </string>
+        <string name = "action_search"> חפש </string>
+        <string name = "action_location_found"> ​​Напоминания </string>
+        <string name = "edit"> Изменить </string>
+        <string name = "no_items"> Ваша корзина пуста, пожалуйста, добавьте новые элементы </string>
+        <string name = "add_new_location"> Добавить новое местоположение </string>
+        <string name = "location_list"> Местоположение </string>
+        <string name = "need_location_permission_message"> Сначала необходимо включить разрешения на размещение </string>
+        <string name = "location_permissions_granted_message"> Разрешенные разрешения на доступ </string><![CDATA[
+        
+        ]]>
+    <string name = "settings_label"> Настройки </string>
+        <string name = "location_permissions"> Разрешения на размещение </string>
+        <string name = "enable_geofences"> Включить Geofences </string>
+        <string name = "privacy"> http://www.google.com/policies/privacy </string>
+        <string name = "ringer_permissions"> Разрешения для звонка </string>
+        <string name = "silent_mode_activated"> Включен тихий режим </string>
+        <string name = "touch_to_relaunch"> Нажмите, чтобы запустить приложение. </string>
+        <string name = "back_to_normal"> Вернуться к нормальной </string>
+        <string name = "save"> Сохранить </string>
+        <string name = "select"> Выбрать список для уведомления </string>
+        <string name = "delete"> Удалить </string>
+        <string name = "sure"> \ "Вы действительно хотите удалить этот Geofence? \" </string>
+        <string name = "launch"> Вы достигли пресса супермаркета здесь, чтобы увидеть ваш список </string>
+        <string name = "bills"> счета-фактуры </string>
+        <string name = "uploaded"> Uploaded on: </string>
+        <string name = "n_uploaded"> Нажмите, чтобы загрузить </string><![CDATA[
+        
+        ]]>
+    <string name = "category"> Catergory </string>
+        <string name = "price"> Цена </string>
+        <string name = "comments"> примечания </string>
+        <string name = "confirm"> Подтвердить </string>
+        <string name = "cancel"> Отменить </string>
+        <string name = "upload"> Загрузить </string>
+        <string name = "search"> Поиск </string>
+        <string name = "not_found"> ​​Ничего не найдено </string>
+        <string name = "tool"> Smart cart </string>
+        <string name = "empty_pr"> Продукт не должен быть пустым </string>
+        <string name = "share"> Список пользователей </string>
+        <string name = "add_new"> Добавить нового пользователя </string>
+        <string name = "username"> Имя пользователя </string>
+        <string name = "please_note"> Обратите внимание, что вы можете добавлять только тех пользователей, которые уже зарегистрированы в приложении, и попросить их указать их имя пользователя. Если вы хотите пригласить их в приложение, нажмите здесь. </string>
+        <string name = "unm"> Имя пользователя не найдено, попробуйте еще раз </string>
+        <string name = "in"> Имя не должно быть пустым </string>
+        <string name = "share_list"> Поделиться этим списком </string>
+        <string name = "share_as"> Поделиться как обычный текст </string>
+        <string name = "shares"> Поделиться </string>
+        <string name = "success"> Приглашение отправлено succssfully! </string>
+        <string name = "unt"> unit </string>
+        <string name = "sharee"> Share App </string>
+        <string name = "settings"> Настройки </string>
+        <string name = "user_set"> Пользовательские настройки </string>
+        <string name = "change_user"> Введите новое имя пользователя </string>
+        <string name = "log_out"> Выход из системы </string>
+        <string name = "policy"> Политика конфиденциальности </string>
+    <string-array name="colors">
+
+        <item name="yellow">#FFFF00</item>
+        <item name="fuchsia">#FF00FF</item>
+        <item name="red">#FF0000</item>
+        <item name="silver">#C0C0C0</item>
+        <item name="gray">#808080</item>
+        <item name="olive">#808000</item>
+        <item name="purple">#800080</item>
+        <item name="maroon">#800000</item>
+        <item name="aqua">#00FFFF</item>
+        <item name="lime">#00FF00</item>
+        <item name="teal">#008080</item>
+        <item name="green">#008000</item>
+        <item name="blue">#0000FF</item>
+        <item name="navy">#000080</item>
+        <item name="black">#000000</item>
+        <item name="white">#FFFFFF</item>
+    </string-array>
+    <string-array name = "units">
+               <item name = "1"> unit </item>
+               <item name = "2"> килограмма </item>
+               <item name = "3"> мусор </item>
+               <item name = "4"> бутылка </item>
+               <item name = "5"> box </item>
+               <item name = "6"> Онкология </item>
+               <item name = "7"> фунт </item>
+               <item name = "8"> несколько </item>
+               <item name = "9"> case </item>
+               <item name = "10"> чашка </item>
+               <item name = "11"> галлон </item>
+               <item name = "12"> дюйм </item>
+               <item name = "13"> miligram </item>
+               <item name = "14"> pack </item>
+
+           </string-array>
+    <string-array name = "categories">
+            <item name = "1"> "select category" </item>
+            <item name = "2"> "животные" </item>
+            <item name = "3"> "органическое и здоровье" </item>
+            <item name = "4"> "зерновые и зерновые культуры" </item>
+            <item name = "5"> "Красота и забота" </item>
+            <item name = "6"> "продукты для детей" </item>
+            <item name = "7"> «готовые к употреблению» </item>
+            <item name = "8"> "замороженные напитки и мороженое" </item>
+            <item name = "9"> "заморозить овощи" </item>
+            <item name = "10"> "замороженные продукты теста" </item>
+            <item name = "11"> "хот-доги" </item>
+            <item name = "12"> "упакованные салаты" </item>
+            <item name = "13"> "хлеб и выпечка" </item>
+            <item name = "14"> "конфеты и шоколад" </item>
+            <item name = "15"> "salt" </item>
+            <item name = "16"> "сладкие спреды" </item>
+            <item name = "17"> "бумага и ткань" </item>
+            <item name = "20"> "чистящие средства" </item>
+            <item name = "21"> "Подготовка к стирке" </item>
+            <item name = "22"> "Супы и блюда" </item>
+            <item name = "23"> «Лапша и паста» </item>
+            <item name = "24"> "Соусы и специи" </item>
+            <item name = "25"> "Основные продукты" </item>
+            <item name = "26"> "Canned" </item>
+            <item name = "27"> «Курица и рыба» </item>
+            <item name = "28"> "Напитки" </item>
+            <item name = "29"> "Овощи и фрукты" </item>
+            <item name = "30"> "Dairy" </item>
+            <item name = "31"> "Сушеные фрукты и орехи" </item>
+            <item name = "32"> "Другое" </item>
+
+    </string-array>
+    <string name="forgot_password_msg">Forgot password</string>
+    <string name="already">Already have account? sign in</string>
+</resources>

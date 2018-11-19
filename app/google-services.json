@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856140229385",
+    "firebase_url": "https://shopping-list-3d374.firebaseio.com",
+    "project_id": "shopping-list-3d374",
+    "storage_bucket": "shopping-list-3d374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856140229385:android:a9fc83de2e6e1427",
+        "android_client_info": {
+          "package_name": "com.ultimatetoolsil.list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856140229385-0slbgj1uadobfq85j8pfekg28oifbv5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bb2EWRFJ0IBkKstPTZkhqzbbsZG8NLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

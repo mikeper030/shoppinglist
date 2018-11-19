@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:background="@color/white"
+    >
+<CheckBox
+    android:layout_alignParentLeft="true"
+    android:layout_marginTop="2dp"
+    android:layout_marginEnd="8dp"
+
+    android:clickable="true"
+    android:focusableInTouchMode="false"
+    android:layout_marginRight="8dp"
+    android:layout_alignParentStart="true"
+    android:layout_width="wrap_content"
+    android:focusable="false"
+    android:layout_height="wrap_content"
+    android:id="@+id/checkbox"
+    />
+
+    <TextView
+        android:id="@id/list_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:layout_toEndOf="@+id/checkbox"
+        android:layout_toRightOf="@+id/checkbox"
+        android:focusable="false"
+        android:inputType="text"
+        android:paddingRight="8dp"
+        android:textSize="16sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/checkbox"
+        android:layout_alignBottom="@+id/checkbox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        android:id="@id/relativeLayout">
+
+        <Button
+            android:id="@id/plus"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/round_button"
+            android:clickable="true"
+            android:focusable="false"
+            android:text="+" />
+
+        <TextView
+            android:id="@id/quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/plus"
+            android:layout_toRightOf="@+id/plus" />
+
+        <Button
+            android:id="@id/minus"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/quantity"
+            android:layout_toRightOf="@+id/quantity"
+            android:background="@drawable/round_button"
+            android:clickable="true"
+            android:focusable="false"
+            android:text="-" />
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@id/del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="3dp"
+        android:background="@null"
+        android:src="@android:drawable/ic_menu_delete"
+        android:visibility="gone" />
+
+
+</LinearLayout>

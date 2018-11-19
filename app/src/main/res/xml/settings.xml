@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="@string/user_set"
+     >
+    <Preference
+        android:title="@string/username"
+        android:summary="@string/save"
+        android:key="usnn"
+        >
+
+    </Preference>
+    <Preference android:title="@string/log_out"
+        android:key="log">
+
+    </Preference>
+</PreferenceCategory>
+<Preference
+    android:title="@string/policy"
+    android:key="police">
+
+</Preference>
+</PreferenceScreen>

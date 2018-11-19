@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> स्मार्ट खरीदारी सूची </string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name = "sign_in"> साइन इन करें </string>
+        <string name = "btn_forgot_password"> पासवर्ड भूल गया </string>
+        <string name = "lbl_forgot_password"> पासवर्ड भूल गया </string>
+        <string name = "forgot_password_msg"> पासवर्ड भूल गया </string>
+        <string name = "btn_reset_password"> पासवर्ड रीसेट करें </string>
+        <string name = "btn_back"> पीछे </string>
+        <string name = "enter_email"> ईमेल दर्ज करें </string><![CDATA[
+        
+        ]]>
+    <string name = "retry"> त्रुटि कृपया पुनः प्रयास करें </string>
+        <string name = "enter_email_address"> ईमेल पता दर्ज करें </string>
+        <string name = "enter_password"> पासवर्ड दर्ज करें </string>
+        <string name = "pass_short"> पासवर्ड बहुत छोटा </string>
+        <string name = "user_exist"> उपयोगकर्ता पहले से मौजूद है </string>
+        <string name = "btn_login"> लॉगिन </string>
+        <string name = "btn_link_to_register"> कोई खाता नहीं है? अभी पंजीकरण करें </string>
+        <string name = "enter_emailb"> ईमेल </string>
+        <string name = "sign_up"> साइन अप करें </string>
+        <string name = "already"> पहले से ही खाता साइन इन है </string><![CDATA[
+        
+        ]]><string name = "empty"> कृपया अपना उपनाम </string> दर्ज करें
+        <string name = "title_activity_menu_drawer"> मेनू ड्रावर </string>
+
+        <string name = "navigation_drawer_open"> ओपन नेविगेशन ड्रॉवर </string>
+        <string name = "navigation_drawer_close"> नेविगेशन ड्रॉवर बंद करें </string>
+
+        <string name = "action_settings"> सेटिंग्स </string>
+        <string name = "defaultlist"> सुपरमार्केट सूची </string>
+        <string name = "lists"> मेरी सूचियां </string>
+        <string name = "add"> नई सूची जोड़ें </string>
+        <string name = "list_name"> सूची का नाम दर्ज करें </string>
+        <string name = "action_search"> खोज </string>
+        <string name = "action_location_found"> ​​अनुस्मारक </string>
+        <string name = "edit"> संपादित करें </string>
+        <string name = "no_items"> आपकी शॉपिंग कार्ट खाली है कृपया नई आइटम जोड़ें </string>
+        <string name = "add_new_location"> नया स्थान जोड़ें </string>
+        <string name = "location_list"> स्थान </string>
+        <string name = "need_location_permission_message"> आपको पहले स्थान अनुमतियां सक्षम करने की आवश्यकता है </string>
+        <string name = "location_permissions_granted_message"> स्थान अनुमतियां अनुमत </string><![CDATA[
+        
+        ]]>
+    <string name = "settings_label"> सेटिंग्स </string>
+        <string name = "location_permissions"> स्थान अनुमतियां </string>
+        <string name = "enable_geofences"> Geofences सक्षम करें </string>
+        <string name = "privacy"> http://www.google.com/policies/privacy </string>
+        <string name = "ringer_permissions"> रिंगर अनुमतियां </string>
+        <string name = "silent_mode_activated"> मूक मोड सक्रिय </string>
+        <string name = "touch_to_relaunch"> ऐप लॉन्च करने के लिए स्पर्श करें। </string>
+        <string name = "back_to_normal"> सामान्य पर वापस </string>
+        <string name = "save"> सहेजें </string>
+        <string name = "select"> अधिसूचित होने के लिए सूची का चयन करें </string>
+        <string name = "delete"> हटाएं </string>
+        <string name = "sure"> \ "क्या आप वाकई इस जियोफ़ेंस को मिटाना चाहते हैं? \" </string>
+        <string name = "launch"> आप अपनी सूची देखने के लिए यहां सुपरमार्केट प्रेस पर पहुंच गए हैं </string>
+        <string name = "bills"> चालान </string>
+        <string name = "uploaded"> अपलोड किया गया: </string>
+        <string name = "n_uploaded"> अपलोड करने के लिए क्लिक करें </string>
+        <string name  = "quantity"> मात्रा </string>
+        <string name  = "category"> कैटरगरी </string>
+        <string name = "price"> मूल्य </string>
+        <string name = "comments"> नोट्स </string>
+        <string name = "confirm"> पुष्टि करें </string>
+        <string name = "cancel"> रद्द करें </string>
+        <string name = "upload"> अपलोड करें </string>
+        <string name = "search"> खोजें </string>
+        <string name = "not_found"> ​​कोई आइटम नहीं मिला </string>
+        <string name = "tool"> स्मार्ट कार्ट </string>
+        <string name = "empty_pr"> उत्पाद खाली नहीं होना चाहिए </string>
+        <string name = "share"> उपयोगकर्ताओं की सूची </string>
+        <string name = "add_new"> नया उपयोगकर्ता जोड़ें </string>
+        <string name = "username"> उपयोगकर्ता नाम </string>
+        <string name = "please_note"> कृपया ध्यान दें कि आप केवल उन उपयोगकर्ताओं को जोड़ सकते हैं जो पहले से ही ऐप में पंजीकृत हैं, आपको उन्हें अपने उपयोगकर्ता नाम के लिए पूछना होगा। यदि आप उन्हें ऐप प्रेस में आमंत्रित करना चाहते हैं। </string>
+        <string name = "unm"> उपयोगकर्ता नाम नहीं मिला कृपया पुनः प्रयास करें </string>
+        <string name = "in"> नाम खाली नहीं होना चाहिए </string>
+        <string name = "share_list"> इस सूची को साझा करें </string>
+        <string name = "share_as"> सादा पाठ के रूप में साझा करें </string>
+        <string name  = "shares"> साझा करें </string>
+        <string name  = "success"> आमंत्रण सफलतापूर्वक भेजा गया! </string>
+        <string name = "unt"> इकाई </string>
+        <string name = "sharee"> ऐप साझा करें </string>
+        <string name = "settings"> सेटिंग्स </string>
+        <string name = "user_set"> उपयोगकर्ता सेटिंग्स </string>
+        <string name = "change_user"> नया उपयोगकर्ता नाम दर्ज करें </string>
+        <string name = "log_out"> लॉग आउट </string>
+        <string name = "policy"> गोपनीयता नीति </string>
+
+    <string-array name="colors">
+
+            <item name="yellow">#FFFF00</item>
+        <item name="fuchsia">#FF00FF</item>
+        <item name="red">#FF0000</item>
+        <item name="silver">#C0C0C0</item>
+        <item name="gray">#808080</item>
+        <item name="olive">#808000</item>
+        <item name="purple">#800080</item>
+        <item name="maroon">#800000</item>
+        <item name="aqua">#00FFFF</item>
+        <item name="lime">#00FF00</item>
+        <item name="teal">#008080</item>
+        <item name="green">#008000</item>
+        <item name="blue">#0000FF</item>
+        <item name="navy">#000080</item>
+        <item name="black">#000000</item>
+        <item name="white">#FFFFFF</item>
+        </string-array>
+       <string-array name="units">
+           <item name = "1"> इकाई </item>
+           <item name = "2"> किलोग्राम </item>
+           <item name = "3"> कूड़े </item>
+           <item name = "4"> बोतल </item>
+           <item name = "5"> बॉक्स </item>
+           <item name = "6"> ऑन्कोलॉजी </item>
+           <item name = "7"> पाउंड </item>
+           <item name = "8"> मुट्ठी भर </item>
+           <item name = "9"> केस </item>
+           <item name = "10"> कप </item>
+           <item name = "11"> गैलन </item>
+           <item name = "12"> इंच </item>
+           <item name = "13"> मिलीग्राम </item>
+           <item name = "14"> पैक </item>
+
+       </string-array>
+<string-array name="categories">
+        <item name = "1"> "श्रेणी चुनें" </item>
+        <item name = "2"> "जानवर" </item>
+        <item name = "3"> "जैविक और स्वास्थ्य" </item>
+        <item name = "4"> "अनाज और अनाज" </item>
+        <item name = "5"> "सौंदर्य और देखभाल" </item>
+        <item name = "6"> "शिशु उत्पादों" </item>
+        <item name = "7"> "भोजन खाने के लिए तैयार" </item>
+        <item name = "8"> "जमे हुए पेय पदार्थ और आइसक्रीम" </item>
+        <item name = "9"> "सब्जियां जमा करें" </item>
+        <item name = "10"> "जमे हुए आटा उत्पादों" </item>
+        <item name = "11"> "हॉट कुत्ते" </item>
+        <item name = "12"> "पैक किए गए सलाद" </item>
+        <item name = "13"> "रोटी और पेस्ट्री" </item>
+        <item name = "14"> "कैंडी और चॉकलेट" </item>
+        <item name = "15"> "नमक" </item>
+        <item name = "16"> "मीठा फैलता है" </item>
+        <item name = "17"> "पेपर और ऊतक" </item>
+        <item name = "20"> "उत्पादों की सफाई" </item>
+        <item name = "21"> "तैयारी की तैयारी" </item>
+        <item name = "22"> "सूप और व्यंजन" </item>
+        <item name = "23"> "नूडल और पास्ता" </item>
+        <item name = "24"> "सॉस और मसाले" </item>
+        <item name = "25"> "मूल उत्पाद" </item>
+        <item name = "26"> "डिब्बाबंद" </item>
+        <item name = "27"> "चिकन और मछली" </item>
+        <item name = "28"> "पेय" </item>
+        <item name = "2 9"> "सब्जियां और फल" </item>
+        <item name = "30"> "डेयरी" </item>
+        <item name = "31"> "सूखे फल और नट" </item>
+        <item name = "32"> "अन्य" </item>
+
+    </string-array>
+    <string name="continuee">continue</string>
+</resources>

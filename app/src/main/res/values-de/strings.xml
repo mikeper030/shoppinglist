@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Intelligente Einkaufsliste </string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name = "sign_in"> Anmelden </string>
+        <string name = "btn_forgot_password"> Passwort vergessen </string>
+        <string name = "lbl_forgot_password"> Passwort vergessen </string>
+        <string name = "forgot_password_msg"> Passwort vergessen </string>
+        <string name = "btn_reset_password"> Passwort zurücksetzen </string>
+        <string name = "btn_back"> Zurück </string>
+        <string name = "enter_email"> Geben Sie die E-Mail-Adresse </string> ein
+        <string name = "instructions"> Wir haben eine E-Mail mit Anweisungen zum Zurücksetzen des Passworts </string> gesendet
+        <string name = "retry"> Fehler, bitte wiederholen Sie </string>
+        <string name = "enter_email_address"> Geben Sie die E-Mail-Adresse </string> ein
+        <string name = "enter_password"> Geben Sie das Passwort ein </string>
+        <string name = "pass_short"> Passwort zu kurz </string>
+        <string name = "user_exist"> Benutzer existiert bereits </string>
+        <string name = "btn_login"> Anmeldung </string>
+        <string name = "btn_link_to_register"> Sie haben kein Konto? Registrieren Sie sich jetzt </string>
+        <string name = "enter_emailb"> E-Mail </string>
+        <string name = "sign_up"> ANMELDEN </string>
+        <string name = "already"> Melden Sie sich bereits in </string><![CDATA[ an
+        
+        ]]><string name = "empty"> Bitte geben Sie Ihren Nickname </string> ein
+        <string name = "title_activity_menu_drawer"> MenuDrawer </string>
+
+        <string name = "navigation_drawer_open"> Öffnen Sie die Navigationsleiste </string>
+        <string name = "navigation_drawer_close"> Schließen Sie die Navigationsleiste </string>
+
+        <string name = "action_settings"> Einstellungen </string>
+        <string name = "defaultlist"> Supermarktliste </string>
+        <string name = "lists"> meine Listen </string> auf
+        <string name = "add"> Neue Liste hinzufügen </string>
+        <string name = "list_name"> Geben Sie den Listennamen ein </string>
+        <string name = "action_search"> sauche </string>
+        <string name = "action_location_found"> ​​Erinnerungen </string>
+        <string name = "edit"> Bearbeiten </string>
+        <string name = "no_items"> Ihr Einkaufswagen ist leer, bitte fügen Sie neue Artikel hinzu </string>
+        <string name = "add_new_location"> Neuen Ort hinzufügen </string>
+        <string name = "location_list"> Positionen </string>
+        <string name = "need_location_permission_message"> Sie müssen zuerst die Standortberechtigungen aktivieren </string>
+        <string name = "location_permissions_granted_message"> Genehmigte Standortberechtigungen </string><![CDATA[
+        
+        ]]>
+    <string name = "settings_label"> Einstellungen </string>
+        <string name = "location_permissions"> Standortberechtigungen </string>
+        <string name = "enable_geofences"> Geofences aktivieren </string>
+        <string name = "privacy"> http://www.google.com/policies/privacy </string>
+        <string name = "ringer_permissions"> Ruftonberechtigungen </string>
+        <string name = "silent_mode_activated"> Stiller Modus aktiviert </string>
+        <string name = "touch_to_relaunch"> Berühren Sie, um die App zu starten. </string>
+        <string name = "back_to_normal"> Zurück zu normal </string>
+        <string name = "save"> Speichern </string>
+        <string name = "select"> Wählen Sie die Liste aus, die benachrichtigt werden soll </string>
+        <string name = "delete"> Löschen </string>
+        <string name = "sure"> \ "Möchten Sie diesen Geofence wirklich löschen? \" </string>
+        <string name = "launch"> Sie haben den Supermarkt hier erreicht, um Ihre Liste zu sehen </string>
+        <string name = "bills"> Rechnungen </string>
+        <string name = "uploaded"> Hochgeladen am: </string>
+        <string name = "n_uploaded"> Klicken Sie zum Hochladen auf </string><![CDATA[
+        
+        ]]>
+    <string name = "category"> Kategorie </string>
+        <string name = "price"> Preis </string>
+        <string name = "comments"> Notizen </string>
+        <string name = "confirm"> Bestätigen </string>
+        <string name = "cancel"> Abbrechen </string>
+        <string name = "upload"> Hochladen </string>
+        <string name = "search"> Suche </string>
+        <string name = "not_found"> ​​Keine Elemente gefunden </string>
+        <string name = "tool"> Smart Cart </string>
+        <string name = "empty_pr"> Produkt darf nicht leer sein </string>
+        <string name = "share"> Benutzer auflisten </string>
+        <string name = "add_new"> Neuen Benutzer hinzufügen </string>
+        <string name = "username"> Benutzername </string>
+        <string name = "please_note"> Bitte beachten Sie, dass Sie nur Benutzer hinzufügen können, die sich bereits in der App registriert haben und die Sie nach ihrem Benutzernamen fragen müssen. Wenn Sie sie zur App einladen möchten, drücken Sie hier. </string>
+        <string name = "unm"> Benutzername nicht gefunden, bitte versuchen Sie es erneut </string>
+        <string name = "in"> Name darf nicht leer sein </string>
+        <string name = "share_list"> Teilen Sie diese Liste </string>
+        <string name = "share_as"> Als einfachen Text teilen </string>
+        <string name = "shares"> Freigeben </string>
+        <string name = "success"> Einladung wurde erfolgreich gesendet! </string>
+        <string name = "unt"> Einheit </string>
+        <string name = "sharee"> App teilen </string>
+        <string name = "settings"> Einstellungen </string>
+        <string name = "user_set"> Benutzereinstellungen </string>
+        <string name = "change_user"> Geben Sie einen neuen Benutzernamen ein </string>
+        <string name = "log_out"> Abmelden </string>
+        <string name = "policy"> Datenschutzrichtlinie </string>
+    <string-array name = "units">
+                <item name = "1"> Einheit </item>
+                <item name = "2"> Kilogramm </item>
+                <item name = "3"> Wurf </item>
+                <item name = "4"> Flasche </item>
+                <item name = "5"> Box </item>
+                <item name = "6"> Onkologie </item>
+                <item name = "7"> Pfund </item>
+                <item name = "8"> Handvoll </item>
+                <item name = "9"> Fall </item>
+                <item name = "10"> Tasse </item>
+                <item name = "11"> Gallone </item>
+                <item name = "12"> Zoll </item>
+                <item name = "13"> miligram </item>
+                <item name = "14"> pack </item>
+
+            </string-array>
+    <string-array name = "categories">
+                <item name = "1"> "Kategorie auswählen" </item>
+                <item name = "2"> "Tiere" </item>
+                <item name = "3"> "Bio und Gesundheit" </item>
+                <item name = "4"> "Getreide und Getreide" </item>
+                <item name = "5"> "Schönheit und Pflege" </item>
+                <item name = "6"> "Babyprodukte" </item>
+                <item name = "7"> "Fertiggerichte" </item>
+                <item name = "8"> "gefrorene Getränke und Eis" </item>
+                <item name = "9"> "gefrorenes Gemüse" </item>
+                <item name = "10"> "gefrorene Teigprodukte" </item>
+                <item name = "11"> "Hot Dogs" </item>
+                <item name = "12"> "verpackte Salate" </item>
+                <item name = "13"> "Brot und Gebäck" </item>
+                <item name = "14"> "Süßigkeiten und Schokolade" </item>
+                <item name = "15"> "salz" </item>
+                <item name = "16"> "süße Aufstriche" </item>
+                <item name = "17"> "Papier und Tissue" </item>
+                <item name = "20"> "Reinigungsprodukte" </item>
+                <item name = "21"> "Waschmittel" </item>
+                <item name = "22"> "Suppen und Gerichte" </item>
+                <item name = "23"> "Nudel und Pasta" </item>
+                <item name = "24"> "Soßen und Gewürze" </item>
+                <item name = "25"> "Grundprodukte" </item>
+                <item name = "26"> "Konserven" </item>
+                <item name = "27"> "Huhn und Fisch" </item>
+                <item name = "28"> "Getränke" </item>
+                <item name = "29"> "Gemüse und Obst" </item>
+                <item name = "30"> "Dairy" </item>
+                <item name = "31"> "Trockenfrüchte und Nüsse" </item>
+                <item name = "32"> "Andere" </item>
+    </string-array>
+    <string name="continuee">Continue</string>
+      
+</resources>

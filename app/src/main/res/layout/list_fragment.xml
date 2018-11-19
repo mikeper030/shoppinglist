@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    >
+
+    <ImageView
+        android:id="@+id/def"
+        android:layout_width="180dp"
+        android:windowSoftInputMode="adjustPan|stateVisible"
+        android:layout_height="180dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitCenter"
+        android:visibility="gone"
+        android:src="@drawable/down" />
+    <TextView
+        android:id="@+id/txt"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:windowSoftInputMode="adjustPan|stateVisible"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="@string/no_items"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:layout_below="@id/def"/>
+
+    <RelativeLayout
+        android:id="@+id/inputs"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="56dp"
+        android:background="@color/amber"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <EditText
+            android:id="@+id/editText"
+
+            android:layout_width="150dip"
+            android:layout_height="match_parent"
+            android:gravity="start|center"
+            android:hint="@string/n_i"
+            android:textAlignment="viewStart"
+            android:textSize="14sp" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/imageView"
+            android:layout_toStartOf="@+id/imageView"
+            android:entries="@array/categories"
+            android:theme="@android:style/Theme.Holo.Light">
+
+        </Spinner>
+
+        <ImageButton
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            app:srcCompat="@android:drawable/ic_menu_add" />
+
+    </RelativeLayout>
+
+
+    <ExpandableListView
+        android:layout_marginTop="116.5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="55dp"
+        android:id="@+id/main_list"
+        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+        android:clickable="true"
+        android:divider="@color/back"
+
+        android:focusable="true"
+        android:childDivider="#00000000"
+        android:dividerHeight="0.0dp">
+    </ExpandableListView>
+
+    <TextView
+        android:id="@+id/no_itm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inputs"
+        android:layout_centerHorizontal="true"
+        android:text="@string/not_found"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="gone"/>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:id="@+id/pro"
+        android:visibility="visible"
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+    <com.google.android.gms.ads.AdView
+
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-2883974575291426/4278261488">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

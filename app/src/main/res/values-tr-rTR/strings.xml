@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Akıllı alışveriş listesi </string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name = "sign_in"> oturum açın </string>
+        <string name = "btn_forgot_password"> şifremi unuttum </string>
+        <string name = "lbl_forgot_password"> şifremi unuttum </string>
+        <string name = "forgot_password_msg"> şifremi unuttum </string>
+        <string name = "btn_reset_password"> Şifreyi sıfırla </string>
+        <string name = "btn_back"> Geri </string>
+        <string name = "enter_email"> E-posta adresi gir </string>
+        <string name = "instructions"> Şifreyi sıfırlamak için talimatları içeren bir e-posta gönderdik </string>
+        <string name = "retry"> Hata lütfen tekrar deneyin </string>
+        <string name = "enter_email_address"> E-posta adresini girin </string>
+        <string name = "enter_password"> Şifreyi girin </string>
+        <string name = "pass_short"> Şifre çok kısa </string>
+        <string name = "user_exist"> Kullanıcı zaten var </string>
+        <string name = "btn_login"> giriş yap </string>
+        <string name = "btn_link_to_register"> bir hesabınız yok mu? Şimdi kaydolun </string>
+        <string name = "enter_emailb"> E-posta   </string>
+        <string name = "sign_up"> SIGN UP </string>
+        <string name = "already"> Zaten hesabımda oturum açma var </string>
+        <string name = "continuee"> Devam </string>
+        <string name = "empty"> Lütfen takma adınızı girin </string>
+        <string name = "title_activity_menu_drawer"> MenuDrawer </string>
+
+        <string name = "navigation_drawer_open"> Gezinme çekmecesini aç </string>
+        <string name = "navigation_drawer_close"> Gezinme çekmecesini kapat </string>
+
+        <string name = "action_settings"> Ayarlar </string>
+        <string name = "defaultlist"> Süpermarket listesi </string>
+        <string name = "lists"> listelerim </string>
+        <string name = "add"> Yeni liste ekle </string>
+        <string name = "list_name"> Liste adını girin </string>
+        <string name = "action_search"> search </string>
+        <string name = "action_location_found"> ​​Hatırlatıcılar </string>
+        <string name = "edit"> Düzenle </string>
+        <string name = "no_items"> Alışveriş sepetiniz boş lütfen yeni öğeler ekleyin </string>
+        <string name = "add_new_location"> Yeni konum ekle </string>
+        <string name = "location_list"> Yerler </string>
+        <string name = "need_location_permission_message"> Önce konum izinlerini etkinleştirmeniz gerekiyor </string>
+        <string name = "location_permissions_granted_message"> Yer İzinleri Verilenler </string><![CDATA[
+        
+        ]]>
+    <string name = "settings_label"> Ayarlar </string>
+        <string name = "location_permissions"> Konum İzinleri </string>
+        <string name = "enable_geofences"> Geofences\'ı Etkinleştir </string>
+        <string name = "privacy"> http://www.google.com/policies/privacy </string>
+        <string name = "ringer_permissions"> Zil İzinleri </string>
+        <string name = "silent_mode_activated"> Sessiz mod etkinleştirildi </string>
+        <string name = "touch_to_relaunch"> Uygulamayı başlatmak için dokunun. </string>
+        <string name = "back_to_normal"> Normalden geri </string>
+        <string name = "save"> Kaydet </string>
+        <string name = "select"> Bildirim almak için liste seç </string>
+        <string name = "delete"> Sil </string>
+        <string name = "sure"> \ "Bu Geofence'ı silmek istediğinizden emin misiniz? \" </string>
+        <string name = "launch"> Listenizi görmek için süpermarkete ulaştınız </string>
+        <string name = "bills"> faturalar </string>
+        <string name = "uploaded"> Uploaded on: </string>
+        <string name = "n_uploaded"> Yüklemek için tıklayın </string>
+        <string name = "quantity"> Miktar </string>
+        <string name = "category"> Catergory </string>
+        <string name = "price"> Fiyat </string>
+        <string name = "comments"> notlar </string>
+        <string name = "confirm"> Onayla </string>
+        <string name = "cancel"> İptal et </string>
+        <string name = "upload"> Yükle </string>
+        <string name = "search"> Arama </string>
+        <string name = "not_found"> ​​Öğe bulunamadı </string>
+        <string name = "tool"> Akıllı kart </string>
+        <string name = "empty_pr"> Ürün boş olmamalı </string>
+        <string name = "share"> Kullanıcıları listele </string>
+        <string name = "add_new"> Yeni kullanıcı ekle </string>
+        <string name = "username"> Kullanıcı adı </string>
+        <string name = "please_note"> Lütfen sadece kayıtlı kullanıcılara sadece kullanıcı adlarını sormak zorunda kalacağınızı unutmayın. Onları uygulamaya davet etmek istiyorsanız buraya basın. </string>
+        <string name = "unm"> Kullanıcı adı bulunamadı lütfen tekrar deneyin </string>
+        <string name = "in"> İsim boş bırakılmamalıdır </string>
+        <string name = "share_list"> Bu listeyi paylaş </string>
+        <string name = "share_as"> Düz metin olarak paylaş </string>
+        <string name = "shares"> Paylaş </string>
+        <string name = "success"> Davetiye başarılı bir şekilde gönderildi! </string>
+        <string name = "unt"> birim </string>
+        <string name = "sharee"> Uygulamayı Paylaş </string>
+        <string name = "settings"> Ayarlar </string>
+        <string name = "user_set"> Kullanıcı ayarları </string>
+        <string name = "change_user"> Yeni kullanıcı adı gir </string>
+        <string name = "log_out"> Çıkış yap </string>
+        <string name = "policy"> Gizlilik politikası </string>
+    
+    <string-array name="colors">
+
+        <item name="yellow">#FFFF00</item>
+        <item name="fuchsia">#FF00FF</item>
+        <item name="red">#FF0000</item>
+        <item name="silver">#C0C0C0</item>
+        <item name="gray">#808080</item>
+        <item name="olive">#808000</item>
+        <item name="purple">#800080</item>
+        <item name="maroon">#800000</item>
+        <item name="aqua">#00FFFF</item>
+        <item name="lime">#00FF00</item>
+        <item name="teal">#008080</item>
+        <item name="green">#008000</item>
+        <item name="blue">#0000FF</item>
+        <item name="navy">#000080</item>
+        <item name="black">#000000</item>
+        <item name="white">#FFFFFF</item>
+    </string-array>
+    <string-array name = "categories">
+        <item name = "1"> kategori seç </item>
+        <item name = "2"> hayvanlar </item>
+        <item name  = "3"> organik ve sağlık </item>
+        <item name  = "4"> tahıllar ve tahıllar </item>
+        <item name  = "5"> güzellik ve bakım </item>
+        <item name = "6"> bebek ürünleri </item>
+        <item name = "7"> yemek yemeye hazır </item>
+        <item name  = "8"> dondurulmuş içecekler ve dondurma </item>
+        <item name = "9"> dondurulmuş sebzeler </item>
+        <item name  = "10"> dondurulmuş hamur ürünleri </item>
+        <item name  = "11"> sosisli köpekler </item>
+        <item name  = "12"> paketlenmiş salatalar</item>
+        <item name  = "13"> ekmek ve hamur işi </item>
+        <item name  = "14"> şeker ve çikolata </item>
+        <item name  = "15"> tuz </item>
+        <item name  = "16"> tatlı yayılır </item>
+        <item name = "17"> kağıt ve doku </item>
+        <item name  = "20"> temizlik ürünleri</item>
+        <item name = "21"> Yıkama preparatları </item>
+        <item name = "22"> Çorbalar ve yemekler </item>
+        <item name  = "23"> Erişte ve Makarna </item>
+        <item name = "24"> Soslar ve Baharatlar </item>
+        <item name = "25"> Temel Ürünler </item>
+        <item name = "26"> Canned </item>
+        <item name = "27"> Tavuk ve Balık </item>
+        <item name = "28"> İçecekler </item>
+        <item name = "29"> Sebze ve meyveler </item>
+        <item name = "30"> Süt </item>
+        <item name  = "31"> Kuru meyveler ve fındık </item>
+        <item name = "32"> Diğer </item>
+    </string-array>
+    <string-array name = "units">
+             <item name = "1"> birim </item>
+             <item name = "2"> kilogram </item>
+             <item name= "3"> çöp </item>
+             <item name = "4"> şişe </item>
+             <item name = "5"> kutu </item>
+             <item name = "6"> Onkoloji </item>
+             <item name= "7"> pound </item>
+             <item name = "8"> avuç </item>
+             <item name= "9"> durum </item>
+             <item name = "10"> fincan </item>
+             <item name = "11"> galon </item>
+             <item name = "12"> inç </item>
+             <item name= "13"> miligram </item>
+             <item name = "14"> paket </item>
+    </string-array>
+</resources>

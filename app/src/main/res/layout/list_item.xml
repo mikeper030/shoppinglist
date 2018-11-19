@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/back" >
+
+    <RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="horizontal"
+   android:layout_centerHorizontal="true"
+    android:layout_centerInParent="true"
+
+
+    >
+
+    <CheckBox
+    android:layout_alignParentLeft="true"
+    android:layout_marginTop="2dp"
+    android:layout_marginEnd="8dp"
+
+    android:clickable="true"
+    android:focusableInTouchMode="false"
+    android:layout_marginRight="8dp"
+    android:layout_alignParentStart="true"
+    android:layout_width="wrap_content"
+    android:focusable="false"
+    android:layout_height="wrap_content"
+    android:id="@+id/checkbox"
+    />
+    <TextView
+        android:inputType="text"
+        android:paddingRight="8dp"
+        android:layout_width="wrap_content"
+        android:focusable="false"
+        android:layout_marginTop="6dp"
+        android:textSize="16sp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/checkbox"
+        android:layout_toEndOf="@+id/checkbox"
+        android:id="@+id/list_text"/>
+     <ImageButton
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/del"
+         android:src="@android:drawable/ic_menu_delete"
+         android:layout_marginTop="3dp"
+         android:background="@null"
+         android:visibility="gone"
+         android:layout_marginRight="8dp"
+         android:layout_marginEnd="8dp"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentEnd="true"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:id="@+id/relativeLayout">
+
+        <Button
+            android:id="@+id/plus"
+            android:layout_width="20dp"
+
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+
+            android:background="@drawable/round_button"
+            android:clickable="true"
+            android:focusable="false"
+            android:text="+" />
+
+        <TextView
+            android:id="@+id/quantity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/plus"
+            android:layout_toRightOf="@+id/plus" />
+
+        <Button
+            android:id="@+id/minus"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/quantity"
+            android:layout_toRightOf="@+id/quantity"
+            android:background="@drawable/round_button"
+            android:clickable="true"
+            android:focusable="false"
+            android:text="-" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/linearfaq"
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/back"
+        android:orientation="vertical" >
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/padder"
+        android:layout_width="match_parent"
+        android:background="@color/blue"
+         android:visibility="gone"
+        android:layout_height="2dp"
+
+        android:layout_alignTop="@+id/linearfaq"
+        >
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
+</RelativeLayout>

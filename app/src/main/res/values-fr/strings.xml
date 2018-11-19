@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> Liste d\'achats intelligente </string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name = "sign_in"> se connecter </string>
+        <string name = "btn_forgot_password"> mot de passe oublié </string>
+        <string name = "lbl_forgot_password"> Mot de passe oublié </string>
+        <string name = "forgot_password_msg">   forgot password</string>
+        <string name = "btn_reset_password"> Réinitialiser le mot de passe </string>
+        <string name = "btn_back"> Retour </string>
+        <string name = "enter_email"> Entrer l\'email </string>
+        <string name = "instructions"> Nous avons envoyé un email avec des instructions pour réinitialiser le mot de passe </string>
+        <string name = "retry"> Erreur veuillez réessayer </string>
+        <string name = "enter_email_address"> Entrer l\'adresse email </string>
+        <string name = "enter_password"> Entrer le mot de passe </string>
+        <string name = "pass_short"> Mot de passe trop court </string>
+        <string name = "user_exist"> L\'utilisateur existe déjà </string>
+        <string name = "btn_login"> connexion </string>
+        <string name = "btn_link_to_register"> Vous n\'avez pas de compte? Inscrivez-vous maintenant </string>
+        <string name = "enter_emailb"> Email </string>
+        <string name = "sign_up"> INSCRIVEZ-VOUS </string>
+        <string name = "already"> Vous avez déjà un compte, signez moi </string>
+        <string name = "continuee"> Continuer </string>
+        <string name = "empty"> Veuillez entrer votre pseudo </string>
+        <string name = "title_activity_menu_drawer"> MenuDrawer </string>
+
+        <string name = "navigation_drawer_open"> Ouvrir le tiroir de navigation </string>
+        <string name = "navigation_drawer_close"> Fermer le tiroir de navigation </string>
+
+        <string name = "action_settings"> Paramètres </string>
+        <string name = "defaultlist"> Liste des supermarchés </string>
+        <string name = "lists"> mes listes </string>
+        <string name = "add"> Ajouter une nouvelle liste </string>
+        <string name = "list_name"> Entrer le nom de la liste </string>
+        <string name = "action_search"> חפש </string>
+        <string name = "action_location_found"> ​​Rappels </string>
+        <string name = "edit"> Modifier </string>
+        <string name = "no_items"> Votre panier est vide s\'il vous plaît ajouter de nouveaux articles </string>
+        <string name = "add_new_location"> Ajouter un nouvel emplacement </string>
+        <string name = "location_list"> Emplacements </string>
+        <string name = "need_location_permission_message"> Vous devez d\'abord activer les autorisations de localisation </string>
+        <string name = "location_permissions_granted_message"> Autorisations d\'emplacement accordées </string><![CDATA[
+        
+        ]]>
+    <string name = "settings_label"> Paramètres </string>
+        <string name = "location_permissions"> Autorisations de localisation </string>
+        <string name = "enable_geofences"> Activer les Geofences </string>
+        <string name = "privacy"> http://www.google.com/policies/privacy </string>
+        <string name = "ringer_permissions"> Autorisations de sonnerie </string>
+        <string name = "silent_mode_activated"> Mode silencieux activé </string>
+        <string name = "touch_to_relaunch"> Touchez pour lancer l\'application. </string>
+        <string name = "back_to_normal"> Retour à la normale </string>
+        <string name = "save"> Enregistrer </string>
+        <string name = "select"> Sélectionner la liste à notifier </string>
+        <string name = "delete"> Supprimer </string>
+        <string name = "sure"> \ "Etes-vous sûr de vouloir supprimer ce Geofence? \" </string>
+        <string name = "launch"> Vous avez atteint la presse du supermarché ici pour voir votre liste </string>
+        <string name = "bills"> factures </string>
+        <string name = "uploaded"> Téléchargé sur: </string>
+        <string name = "n_uploaded"> Cliquez pour télécharger </string>
+        <string name = "quantity"> Quantité </string>
+        <string name = "category"> Catergory </string>
+        <string name = "price"> Prix </string>
+        <string name = "comments"> notes </string>
+        <string name = "confirm"> Confirmer </string>
+        <string name = "cancel"> Annuler </string>
+        <string name = "upload"> Télécharger </string>
+        <string name = "search"> Recherche </string>
+        <string name = "not_found"> ​​Aucun élément trouvé </string>
+        <string name = "tool"> Panier intelligent </string>
+        <string name = "empty_pr"> Le produit ne doit pas être vide </string>
+        <string name = "share"> Liste les utilisateurs </string>
+        <string name = "add_new"> Ajouter un nouvel utilisateur </string>
+        <string name = "username"> Nom d\'utilisateur </string>
+        <string name = "please_note"> S\'il vous plaît noter que vous ne pouvez ajouter que les utilisateurs déjà inscrits à l\'application, vous devrez leur demander leur nom d\'utilisateur. Si vous voulez les inviter à l\'application, appuyez ici. </string>
+        <string name = "unm"> Identifiant non trouvé, veuillez réessayer </string>
+        <string name = "in"> Le nom ne doit pas être vide </string>
+        <string name = "share_list"> Partager cette liste </string>
+        <string name = "share_as"> Partager en texte brut </string><![CDATA[
+        
+        ]]>
+    <string name = "success"> Invitation envoyée avec succés! </string>
+        <string name = "unt"> unité </string>
+        <string name = "sharee"> Partager l\'application </string>
+        <string name = "settings"> Paramètres </string>
+        <string name = "user_set"> Paramètres utilisateur </string>
+        <string name = "change_user"> Entrez un nouveau nom d\'utilisateur </string>
+        <string name = "log_out"> Se déconnecter </string>
+        <string name = "policy"> Politique de confidentialité </string>
+    <string-array name = "colors">
+
+                <item name = "yellow"> # FFFF00 </item>
+                <item name = "fuchsia"> # FF00FF </item>
+                <item name = "red"> # FF0000 </item>
+                <item name = "silver"> # C0C0C0 </item>
+                <item name = "gray"> # 808080 </item>
+                <item name = "olive"> # 808000 </item>
+                <item name = "purple"> # 800080 </item>
+                <item name = "maroon"> # 800000 </item>
+                <item name = "aqua"> # 00FFFF </item>
+                <item name = "lime"> # 00FF00 </item>
+                <item name = "teal"> # 008080 </item>
+                <item name = "vert"> # 008000 </item>
+                <item name = "blue"> # 0000FF </item>
+                <item name = "navy"> # 000080 </item>
+                <item name = "black"> # 000000 </item>
+                <item name = "white"> # FFFFFF </item>
+            </string-array>
+        <string-array name = "units">
+            <item name = "1"> unité </item>
+            <item name = "2"> kilogramme </item>
+            <item name = "3"> litière </item>
+            <item name = "4"> bouteille </item>
+            <item name = "5"> boîte </item>
+            <item name = "6"> Oncologie </item>
+            <item name = "7"> livre </item>
+            <item name = "8"> poignée </item>
+            <item name = "9"> case </item>
+            <item name = "10"> tasse </item>
+            <item name = "11"> gallon </item>
+            <item name = "12"> pouce </item>
+            <item name = "13"> miligram </item>
+            <item name = "14"> pack </item>
+
+        </string-array>
+        <string-array name = "categories">
+            <item name = "1"> "sélectionnez la catégorie" </item>
+            <item name = "2"> "animaux" </item>
+            <item name = "3"> "organique et santé" </item>
+            <item name = "4"> "céréales et grains" </item>
+            <item name = "5"> "beauté et soin" </item>
+            <item name = "6"> "produits pour bébés" </item>
+            <item name = "7"> "repas prêts à manger" </item>
+            <item name = "8"> "boissons glacées et crème glacée" </item>
+            <item name = "9"> "légumes congelés" </item>
+            <item name = "10"> "produits à base de pâte congelée" </item>
+            <item name = "11"> "hot dogs" </item>
+            <item name = "12"> "salades emballées" </item>
+            <item name = "13"> "pain et pâtisserie" </item>
+            <item name = "14"> "bonbon et chocolat" </item>
+            <item name = "15"> "salt" </item>
+            <item name = "16"> "sweet spreads" </item>
+            <item name = "17"> "papier et tissu" </item>
+            <item name = "20"> "produits de nettoyage" </item>
+            <item name = "21"> "Préparations de lavage" </item>
+            <item name = "22"> "Soupes et plats" </item>
+            <item name = "23"> "Nouilles et pâtes" </item>
+            <item name = "24"> "Sauces et épices" </item>
+            <item name = "25"> "Produits de base" </item>
+            <item name = "26"> "Conservé" </item>
+            <item name = "27"> "Poulet et poisson" </item>
+            <item name = "28"> "Boissons" </item>
+            <item name = "29"> "Légumes et fruits" </item>
+            <item name = "30"> "Produits laitiers" </item>
+            <item name = "31"> "Fruits et noix séchés" </item>
+            <item name = "32"> "Autre" </item>
+
+        </string-array>
+</resources>

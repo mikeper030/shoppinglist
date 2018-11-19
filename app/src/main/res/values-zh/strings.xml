@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name ="app_name">智能购物清单</string><![CDATA[
+        
+        
+        
+    ]]>
+    <string name ="sign_in">登录</string>
+        <string name ="btn_forgot_password">忘记密码</string>
+        <string name ="lbl_forgot_password">忘记密码</string>
+        <string name ="forgot_password_msg">忘记密码</string>
+        <string name ="btn_reset_password">重置密码</string>
+        <string name ="btn_back">返回</string>
+        <string name ="enter_email">输入电子邮件</string>
+        <string name ="instructions">我们已发送电子邮件，指示重置密码</string>
+        <string name ="retry">错误请重试</string>
+        <string name ="enter_email_address">输入电子邮件地址</string>
+        <string name ="enter_password">输入密码</string><![CDATA[
+        
+        ]]>
+    <string name ="user_exist">用户已存在</string>
+        <string name ="btn_login"> login </string>
+        <string name ="btn_link_to_register">没有账号？立即注册</string>
+        <string name ="enter_emailb">电子邮件</string>
+        <string name ="sign_up">注册</string>
+        <string name ="already">已经有帐户在我登录</string>
+        <string name ="continuee">继续</string>
+        <string name ="empty">请输入您的昵称</string>
+        <string name ="title_activity_menu_drawer"> MenuDrawer </string>
+
+        <string name ="navigation_drawer_open">打开抽屉式导航</string>
+        <string name ="navigation_drawer_close">关闭抽屉式导航</string>
+
+        <string name ="action_settings">设置</string>
+        <string name ="defaultlist">超市列表</string>
+        <string name ="lists">我的列表</string>
+        <string name ="add">添加新列表</string>
+        <string name ="list_name">输入列表名称</string>
+        <string name ="action_search">搜索</string>
+        <string name ="action_location_found">提醒</string>
+        <string name ="edit">编辑</string>
+        <string name ="no_items">您的购物车为空，请添加新项目</string>
+        <string name ="add_new_location">添加新位置</string>
+        <string name ="location_list">地点</string>
+        <string name ="need_location_permission_message">您需要首先启用位置权限</string>
+        <string name ="location_permissions_granted_message">授予位置权限</string>
+        
+        <string name ="settings_label">设置</string>
+        <string name ="location_permissions">位置权限</string>
+        <string name ="enable_geofences">启用Geofences </string>
+        <string name ="privacy"> http://www.google.com/policies/privacy </string>
+        <string name ="ringer_permissions">林格权限</string>
+        <string name ="silent_mode_activated">启动静音模式</string>
+        <string name="touch_to_relaunch">轻触以启动应用程序。</string>
+        <string name ="back_to_normal">返回正常</string>
+        <string name ="save">保存</string>
+        <string name ="select">选择要通知的列表</string>
+        <string name ="delete">删除</string>
+        <string name ="sure"> \“您确定要删除此Geofence？\”</string>
+        <string name ="launch">您已到达超市，点击此处查看您的清单</string>
+        <string name ="bills">发票</string>
+        <string name ="uploaded">上传于：</string>
+        <string name ="n_uploaded">点击上传</string>
+        <string name ="quantity"> Quantity </string>
+        <string name ="category"> Catergory </string>
+        <string name ="price"> Price </string><![CDATA[
+        
+        ]]>
+    <string name ="confirm">确认</string>
+        <string name ="cancel">取消</string>
+        <string name ="upload">上传</string>
+        <string name ="search">搜索</string>
+        <string name ="not_found">未找到任何项目</string>
+        <string name ="tool">智能购物车</string>
+        <string name ="empty_pr">产品不能为空</string>
+        <string name ="share">列出用户</string>
+        <string name ="add_new">添加新用户</string>
+        <string name ="username">用户名</string>
+        <string name ="please_note">请注意，您只能添加已经注册到应用程序的用户，您必须要求他们输入用户名。如果您想邀请他们加入应用程序，请按这里。</string>
+        <string name ="unm">未找到用户名，请重试</string>
+        <string name ="in">名称不能为空</string>
+        <string name ="share_list">分享此列表</string>
+        <string name ="share_as">以纯文本共享</string>
+        <string name ="shares">分享</string>
+        <string name ="success">邀请成功发送！</string>
+        <string name ="unt">单位</string>
+        <string name ="sharee">共享应用</string>
+        <string name ="settings">设置</string>
+        <string name ="user_set">用户设置</string>
+        <string name ="change_user">输入新的用户名</string>
+        <string name ="log_out">注销</string>
+        <string name ="policy">隐私政策</string>
+    <string-array name="colors">
+
+        <item name="yellow">#FFFF00</item>
+        <item name="fuchsia">#FF00FF</item>
+        <item name="red">#FF0000</item>
+        <item name="silver">#C0C0C0</item>
+        <item name="gray">#808080</item>
+        <item name="olive">#808000</item>
+        <item name="purple">#800080</item>
+        <item name="maroon">#800000</item>
+        <item name="aqua">#00FFFF</item>
+        <item name="lime">#00FF00</item>
+        <item name="teal">#008080</item>
+        <item name="green">#008000</item>
+        <item name="blue">#0000FF</item>
+        <item name="navy">#000080</item>
+        <item name="black">#000000</item>
+        <item name="white">#FFFFFF</item>
+    </string-array>
+    <string-array name ="units">
+               <item name ="1"> unit </item>
+           <item name ="2"> kilogram </item>
+           <item name ="3">垃圾</item>
+           <item name ="4">瓶子</item>
+           <item name ="5">框</item>
+           <item name ="6">肿瘤科</item>
+           <item name ="7">磅</item>
+           <item name ="8">少数</item>
+           <item name ="9"> case </item>
+           <item name ="10"> cup </item>
+           <item name ="11"> gallon </item>
+           <item name ="12"> inch </item>
+           <item name ="13"> miligram </item>
+           <item name ="14"> pack </item>
+
+           </string-array>
+<string-array name ="categories">
+        <item name ="1">选择类别</item>
+        <item name ="2">“动物”</item>
+        <item name ="3">“有机健康”</item>
+        <item name ="4">“谷物和谷物”</item>
+        <item name ="5">“美容与护理”</item>
+        <item name ="6">“婴儿产品”</item>
+        <item name ="7">“准备吃饭”</item>
+        <item name ="8">“冷冻饮料和冰淇淋”</item>
+        <item name ="9">“冻结蔬菜”</item>
+        <item name ="10">冷冻面团产品”</item>
+        <item name ="11">“热狗”</item>
+        <item name ="12">“打包的沙拉”</item>
+        <item name ="13">“面包和糕点”</item>
+        <item name ="14">“糖果和巧克力”</item>
+        <item name ="15">“salt”</item>
+        <item name ="16">“甜蜜点差”</item>
+        <item name ="17">“纸和纸巾”</item>
+        <item name ="20">“清洁产品”</item>
+        <item name ="21">“洗涤准备”</item>
+        <item name ="22">“汤和菜”</item>
+        <item name ="23">“面条和意大利面”</item>
+        <item name ="24">“酱料和香料”</item>
+        <item name ="25">“基本产品”</item>
+        <item name ="26">“Canned”</item>
+        <item name ="27">“鸡和鱼”</item>
+        <item name ="28">“饮料”</item>
+        <item name ="29">“蔬菜和水果”</item>
+        <item name ="30">“Dairy”</item>
+        <item name ="31">“干果和坚果”</item>
+        <item name ="32">“其他”</item>
+    </string-array>
+    <string name="comments">notes</string>
+    <string name="pass_short">password too short</string>
+</resources>
